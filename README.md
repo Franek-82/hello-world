@@ -1,2 +1,1 @@
-# hello-world
-my first rep.
+Hi, my name is Franek.
